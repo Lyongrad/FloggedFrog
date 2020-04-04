@@ -1,0 +1,11 @@
+.header {
+	background-color:green;
+	color: black
+	text-align:center;
+}
+	
+.board {
+	display:block;
+	text-align:center;
+	border: 2px solid gray;
+}
