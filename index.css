@@ -4,7 +4,8 @@
 	text-align:center;
 }
 	
-.board {
+table .board th td {
+  align:center;
 	display:block;
 	text-align:center;
 	border: 2px solid gray;
